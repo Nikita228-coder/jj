@@ -1,0 +1,13 @@
+name = "Pervii"
+uuid = "0c1dfe80-4f67-4468-9d2d-d6e627134ecb"
+authors = ["Nikita"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
